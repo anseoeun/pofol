@@ -6,3 +6,8 @@ img04.jpg
 img05.jpg
 img06.jpg
 img07.jpg
+img_mobile1.jpg
+img_mobile2.jpg
+img_mobile3.jpg
+img_mobile4.jpg
+img_mobile5.jpg
